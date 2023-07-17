@@ -42,7 +42,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text=_["PL_B_2"],
+                text=_["S_B_4"],
                 url=f"https://t.me/NikkiAssociation",
             ),
             InlineKeyboardButton(
@@ -88,7 +88,7 @@ def stream_markup(_, videoid, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text=_["PL_B_2"],
+                text=_["S_B_4"],
                 url=f"https://t.me/NikkiAssociation",
             ),
             InlineKeyboardButton(
